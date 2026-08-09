@@ -13,6 +13,6 @@ def open_app(command):
         sub.Popen(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
 
 open_app(command)
-
+ 
 
     
