@@ -1,4 +1,4 @@
-import speech_recognition as sr
+
 import subprocess as sub
 
 command= input("INPUT YOUR APP")
