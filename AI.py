@@ -9,10 +9,6 @@ def open_app(command):
     elif "blender" in command:
         sub.Popen(r"C:\Program Files\Google\Play Games\Bootstrapper.exe")
 
-    elif "chrome" in command:
-        sub.Popen(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
-
-open_app(command)
- 
+    
 
     
